@@ -1,0 +1,1 @@
+export const ACTION_SET_MESSAGE = "ACTION_SET_MESSAGE"
